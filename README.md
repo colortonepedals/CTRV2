@@ -1,10 +1,9 @@
-# COLORTONE RELEASE BUILDS 
+# LINKS
 
-Links:
 
 ./Updater/app/app.js
 
 ./Updater/data/sources.json
 
-./CTRV2/dist/sources.json
+./CTRV2/dist/examples.json
 
