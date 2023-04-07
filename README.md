@@ -6,3 +6,5 @@ Links:
 
 ./Updater/data/sources.json
 
+./CTRV2/dist/sources.json
+
