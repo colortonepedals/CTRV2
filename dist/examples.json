@@ -4,27 +4,27 @@
         "platform": "Roundhouse",
         "filepath": "./dist/Roundhouse/CT_tremolo_v13.bin",
         "description": "no desc available yet",
-        "url": "https://raw.githubusercontent.com/ahause23/Release/main/dist/Roundhouse/README.md"
+        "url": "https://raw.githubusercontent.com/colortonepedals/Release2/main/dist/Roundhouse/README.md"
     },
     {
         "name": "Roundhouse_INT_v1.13",
         "platform": "Roundhouse",
         "filepath": "./dist/Roundhouse/CT_tremolo_v13.bin",
         "description": "no desc available yet",
-        "url": "https://raw.githubusercontent.com/ahause23/Release/main/dist/Roundhouse/README.md"
+        "url": "https://raw.githubusercontent.com/colortonepedals/Release2/main/dist/Roundhouse/README.md"
     },
     {
         "name": "LoFiDelay_v1.08",
         "platform": "LoFi-Delay",
         "filepath": "./dist/LoFiDelay/LoFi_Delay_v8.bin",
         "description": "no desc available yet",
-        "url": "https://raw.githubusercontent.com/ahause23/Release/main/dist/LoFiDelay/README.md"
+        "url": "https://raw.githubusercontent.com/colortonepedals/Release2/main/dist/LoFiDelay/README.md"
     },
     {
         "name": "SpringReverb-II_v1.06",
         "platform": "Spring Reverb II",
         "filepath": "./dist/SpringReverbII/SpringReverb_v6.bin",
         "description": "no desc available yet",
-        "url": "https://raw.githubusercontent.com/ahause23/Release/main/dist/SpringReverbII/README.md"
+        "url": "https://raw.githubusercontent.com/colortonepedals/Release2/main/dist/SpringReverbII/README.md"
     }
 ]
