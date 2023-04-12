@@ -1,27 +1,27 @@
 [
     {
-        "name": "Roundhouse_AUS_v1.13",
+        "name": "Roundhouse_AUS_v1.13 - Release Notes Below",
         "platform": "Roundhouse",
         "filepath": "./dist/Roundhouse/CT_tremolo_v13.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/Roundhouse/README.md"
     },
     {
-        "name": "Roundhouse_INT_v1.13",
+        "name": "Roundhouse_INT_v1.13 - Release notes Below",
         "platform": "Roundhouse",
         "filepath": "./dist/Roundhouse/CT_tremolo_v13.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/Roundhouse/README.md"
     },
     {
-        "name": "LoFiDelay_v1.08",
+        "name": "LoFiDelay_v1.08  -  see notes below",
         "platform": "LoFi-Delay",
         "filepath": "./dist/LoFiDelay/LoFi_Delay_v8.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/LoFiDelay/README.md"
     },
     {
-        "name": "SpringReverb-II_v1.07",
+        "name": "SpringReverb-II_v1.07 - Release Notes Below",
         "platform": "Spring Reverb II",
         "filepath": "./dist/SpringReverbII/SpringReverb_v7.bin",
         "description": "no desc available yet",
