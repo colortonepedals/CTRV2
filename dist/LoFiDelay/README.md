@@ -2,6 +2,8 @@
 
 ## V1_08 Updates and ChangeList
 
+Note - If your USB connector does not fit you can remove the small Daughterboard from the Main PCB and follow the same instructions above in the Help menu. Place fingers under the LHS and RHS of the board and gently pull it off the the socket. After flashing the new firmware be VERY careful to make sure that when putting the Daughter Board back that you carefully line up all the connection pins before pushing back down and re-seating the board. 
+
 2023-04-02 V108
 - Fixed Bug causing Delay to lock up under certain conditions
 - Removed speed multiplier 'DIV' from DRY mode
