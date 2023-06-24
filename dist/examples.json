@@ -14,9 +14,9 @@
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/Roundhouse/README.md"
     },
     {
-        "name": "LoFiDelay_v1.08  -  see notes below",
+        "name": "LoFiDelay_v1.08a  -  see notes below",
         "platform": "LoFi-Delay",
-        "filepath": "./dist/LoFiDelay/LoFi_Delay_v8.bin",
+        "filepath": "./dist/LoFiDelay/LoFi_Delay_v8a_CT_ED.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/LoFiDelay/README.md"
     },
