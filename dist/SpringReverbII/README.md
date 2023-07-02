@@ -1,4 +1,8 @@
 # Spring Reverb II
+## v1_12 Updates and ChangeList
+
+2023-06-28 V112
+- Updated Bandpass in Chorus
 
 ## v1_07 Updates and ChangeList
 
