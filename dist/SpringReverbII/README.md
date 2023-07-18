@@ -1,4 +1,11 @@
 # Spring Reverb II
+## v1_13 Updates and ChangeList
+
+2023-07-18 V113
+- Changed L2 Chorus to RotoTrem - Stereo Imaged Rotating Tremolo
+- Updated Deepemphasis Pin - Now full Spectrum throughput
+
+  
 ## v1_12 Updates and ChangeList
 
 2023-06-28 V112
