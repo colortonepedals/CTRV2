@@ -1,6 +1,9 @@
 # Roundhouse 
 
-## V1_14 Updates and ChangeList
+## V1_15 Updates and ChangeList
+
+2023-08-03 V115
+- to Mix Pot new PCB orientation
 
 2023-07-25 V114
 - Updated Rate LED that was causing an audible hum with some power supplies
