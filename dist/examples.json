@@ -28,6 +28,13 @@
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/LoFiDelay/README.md"
     },
     {
+        "name": "LoFiDelay_v1.9  -  see notes below",
+        "platform": "LoFi-Delay",
+        "filepath": "./dist/LoFiDelay/LoFi_Delay_v9_CT_ED.bin",
+        "description": "no desc available yet",
+        "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/LoFiDelay/README.md"
+    },
+    {
         "name": "SpringReverb-II_v1.13 - Release Notes Below",
         "platform": "Spring Reverb II",
         "filepath": "./dist/SpringReverbII/SpringReverb_v13.bin",
