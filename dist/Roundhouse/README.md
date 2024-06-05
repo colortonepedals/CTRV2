@@ -1,6 +1,8 @@
 # Roundhouse 
 
-## V1_15 Updates and ChangeList
+## V1_16 Updates and ChangeList
+2024-06-05 V116
+- Decreased Mute time and Soft Muting On Bypass Switching
 
 2023-08-03 V115
 - to Mix Pot new PCB orientation
