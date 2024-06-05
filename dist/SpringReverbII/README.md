@@ -1,4 +1,10 @@
 # Spring Reverb II
+
+## v1_15 Updates and ChangeList
+
+2024-06-05 V115
+- Updated and smoothed out Bypass mode
+
 ## v1_13 Updates and ChangeList
 
 2023-07-18 V113
