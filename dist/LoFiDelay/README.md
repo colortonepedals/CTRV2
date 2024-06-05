@@ -1,5 +1,10 @@
 # Lo-Fi Delay
 
+## V1_09 Updates and changelist
+
+2024-06-05 v109
+- Make Bypass transition smoother 
+  
 ## V1_08a Updates and changelist
 
 2023-06-24 v108a
