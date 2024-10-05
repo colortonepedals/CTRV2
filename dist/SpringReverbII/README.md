@@ -2,7 +2,7 @@
 
 ## v1_15b_exp Updates and ChangeList
 
-2024-10-05 V115a
+2024-10-05 V115b
 - Add Expression output for RotoTrem Speed (ONLY FOR MODELS WITH EXPRESSION OUTPUT JACK)
 
 ## v1_15 Updates and ChangeList
