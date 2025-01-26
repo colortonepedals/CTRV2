@@ -54,5 +54,12 @@
         "filepath": "./dist/SpringReverbII/SpringReverb_v15b_exp.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/SpringReverbII/README.md"
+    },
+     {
+        "name": "SpringReverb-II_v1.15c_exp - Release Notes Below",
+        "platform": "Spring Reverb II",
+        "filepath": "./dist/SpringReverbII/SpringReverb_v15c_exp.bin",
+        "description": "no desc available yet",
+        "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/SpringReverbII/README.md"
     }
 ]
