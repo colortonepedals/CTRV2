@@ -1,5 +1,10 @@
 # Spring Reverb II
 
+## v1_15c_exp Updates and ChangeList
+
+2025-02-26 V115c
+- Fix dropout fault in Expression model. (ONLY FOR MODELS WITH EXPRESSION OUTPUT JACK)
+
 ## v1_15b_exp Updates and ChangeList
 
 2024-10-07 V115b
