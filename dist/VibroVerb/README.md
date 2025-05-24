@@ -5,4 +5,4 @@
 
 2025-05-24 V102
 
-Initial Release
+• Initial Release
