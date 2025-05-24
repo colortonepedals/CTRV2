@@ -6,4 +6,5 @@
 2025-05-24 V102
 
 • USES BOOTLOADER
+
 • Initial Release
