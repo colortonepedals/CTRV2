@@ -1,5 +1,13 @@
 
 # VibroVerb
+v1_
+## v1.4a Initial Release
+2025-06-09 V104
+
+• USES BOOTLOADER • Fixed Vibe • Remove Square wave on vibe
+
+• Update on Vibe
+
 
 ## v1_4 Initial Release
 
