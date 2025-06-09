@@ -1,4 +1,4 @@
-[
+SU[
     {
         "name": "Roundhouse_AUS_v1.13 - Release Notes Below",
         "platform": "Roundhouse",
@@ -70,9 +70,9 @@
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/VibroVerb/README.md"
     },
     {
-        "name": "SumZero_v1_3 - Release Notes Below",
-        "platform": "SumZero",
-        "filepath": "./dist/SumZero/SZ_2025_v1_3.bin",
+        "name": "ZeroSum_v1_4 - Release Notes Below",
+        "platform": "ZeroSum",
+        "filepath": "./dist/SumZero/SZ_2025_v1_4.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/SumZero/README.md"
     }
