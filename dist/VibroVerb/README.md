@@ -1,6 +1,10 @@
 
 # VibroVerb
 
+## v1.5 Initial Release
+2025-06-24 v105
+• Better Vibe 
+
 ## v1.4b Initial Release
 2025-06-23 v104b
 • Better Vibe and temp bug fix on midi out sometimes crashing
