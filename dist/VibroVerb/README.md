@@ -1,6 +1,10 @@
 
 # VibroVerb
 
+## v1.6 Initial Release
+2025-06-24 v105
+• Midi Handling - NOte to use MIDI presets you have to be in layer 2 mode
+
 ## v1.5 Initial Release
 2025-06-24 v105
 • Better Vibe 
