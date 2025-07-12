@@ -1,5 +1,12 @@
 # ZERO SUM
 
+## v1_06 Updates and ChangeList
+
+2025-07-12 V160
+• Fixed Save State / Power Cycle
+• Fixed Presets
+
+
 ## v1_04 Updates and ChangeList
 
 2025-06-09 V140
