@@ -1,5 +1,10 @@
 # ZERO SUM
 
+## v1_06a Updates and ChangeList
+
+2025-07-12 V16a
+• Added duck to Exp pedal change
+
 ## v1_06 Updates and ChangeList
 
 2025-07-12 V160
