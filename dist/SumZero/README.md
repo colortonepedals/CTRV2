@@ -1,5 +1,10 @@
 # ZERO SUM
 
+## v1_06b Updates and ChangeList
+
+2025-07-14 V106b
+• Fixed Midi Clock discontinuity
+
 ## v1_06a Updates and ChangeList
 
 2025-07-12 V16a
