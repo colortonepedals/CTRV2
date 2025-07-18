@@ -3,9 +3,8 @@
 
 ## v1.7  Release
 ### 2025-07-18 v107
-> FIXED Midi Preset Handling.
- 
-> Fixed Save Functionality for all 3 presets. 
+> • FIXED Midi Preset Handling.\
+> • Fixed Save Functionality for all 3 presets. 
 
 
 ## v1.6 Initial Release
