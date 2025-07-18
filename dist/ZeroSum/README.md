@@ -1,10 +1,12 @@
-# ZERO SUM - 2025
+# **ZERO SUM - 2025**
 
 ## v1_07 RELEASE - Updates and ChangeList
 ### 2025-07-18
->  • Fixed Midi Presets.
-
+>  • Fixed Midi Presets.\
 >  • Fixed Save Functionality on all 3 presets.
+
+
+
 
 ## v1_06b 
 
