@@ -1,5 +1,5 @@
 
-# **VibroVerb**
+# **VibroVerb Release Notes**
 
 ## v1.7  Release
 ### 2025-07-18 v107
