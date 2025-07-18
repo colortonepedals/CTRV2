@@ -1,12 +1,13 @@
 # ZERO SUM - 2025
 
 ## v1_07 RELEASE - Updates and ChangeList
-2025-07-18
-• Fixed Midi Presets and Save Functionality
+### 2025-07-18
+> Fixed Midi Presets.
+> Fixed Save Functionality.
 
 ## v1_06b Updates and ChangeList
 
-2025-07-14 V160b  Release
+### 2025-07-14 V160b  Release
 • Fixed Discontinuity in midi clock
 
 ## v1_06 Updates and ChangeList
