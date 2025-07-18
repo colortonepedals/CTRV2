@@ -1,6 +1,12 @@
 
 # VibroVerb
 
+## v1.7  Release
+2025-07-18 v107
+• FIXED Midi Preset Handling 
+• Fixed Save Functionality for all 3 presets. 
+
+
 ## v1.6 Initial Release
 2025-06-24 v105
 • Midi Handling - NOte to use MIDI presets you have to be in layer 2 mode
