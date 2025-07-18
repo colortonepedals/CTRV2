@@ -1,4 +1,4 @@
-# **ZERO SUM - 2025**
+# **Zero Sum - Release Notes**
 
 ## v1_07 RELEASE - Updates and ChangeList
 ### 2025-07-18
