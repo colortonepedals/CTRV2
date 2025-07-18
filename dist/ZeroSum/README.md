@@ -2,16 +2,16 @@
 
 ## v1_07 RELEASE - Updates and ChangeList
 ### 2025-07-18
-> Fixed Midi Presets.
+>  • Fixed Midi Presets.
 
-> Fixed Save Functionality.
+>  • Fixed Save Functionality on all 3 presets.
 
-## v1_06b Updates and ChangeList
+## v1_06b 
 
 ### 2025-07-14 V160b  Release
 • Fixed Discontinuity in midi clock
 
-## v1_06 Updates and ChangeList
+## v1_06 
 
 2025-07-12 V160  Release
 • Fixed Save State Power Cycle State
@@ -21,7 +21,7 @@
 • Fixed Save State
 
 
-## v1_03 Updates and ChangeList
+## v1_03 
 
 2025-06-06 V130
 • SumZero_ Initial bin for testing 
@@ -29,7 +29,7 @@
 • MIDI Testing
 
 
-## v1_00 Updates and ChangeList
+## v1_00 
 
 2025-05-24 V120
 • SumZero_ Initial bin for testing
