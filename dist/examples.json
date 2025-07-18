@@ -63,16 +63,16 @@
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/SpringReverbII/README.md"
     },
     {
-        "name": "VibroVerb_v1.6 - Release Notes Below",
+        "name": "VibroVerb_v1.7 - Release Notes Below",
         "platform": "VibroVerb",
-        "filepath": "./dist/VibroVerb/VV_2025_v1_6.bin",
+        "filepath": "./dist/VibroVerb/VV_2025_v1_7.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/VibroVerb/README.md"
     },
     {
-        "name": "ZeroSum_v1_6b - Release Notes Below",
+        "name": "ZeroSum_v1_7 - Release Notes Below",
         "platform": "ZeroSum",
-        "filepath": "./dist/SumZero/SZ_2025_v1_6b.bin",
+        "filepath": "./dist/SumZero/SZ_2025_v1_7.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/ZeroSum/README.md"
     }
