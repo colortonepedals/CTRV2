@@ -1,7 +1,13 @@
 
 # **VibroVerb Release Notes**
 
-## v1.7  Release
+## v1.8  Release
+### 2025-07-22 v108
+> • FIXED Midi Preset Handling. And Cycle Presets at startup\
+> • Set Spread to 0 when mono output which helps Squarewave Chop Trem. 
+
+
+## v1.7  PreRelease
 ### 2025-07-18 v107
 > • FIXED Midi Preset Handling.\
 > • Fixed Save Functionality for all 3 presets. 
