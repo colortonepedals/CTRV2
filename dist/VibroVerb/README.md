@@ -3,7 +3,7 @@
 
 ## v1.8  Release
 ### 2025-07-22 v108
-> • FIXED Midi Preset Handling. And Cycle Presets at startup\
+> • Cycle Presets at startup.\
 > • Set Spread to 0 when mono output which helps Squarewave Chop Trem. 
 
 
