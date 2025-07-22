@@ -1,5 +1,6 @@
 
 # **VibroVerb Release Notes**
+# FLASH UPDATE METHOD BOOTLOADER
 
 ## v1.8  Release
 ### 2025-07-22 v108
