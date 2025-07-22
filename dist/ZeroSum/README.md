@@ -1,6 +1,12 @@
 # **Zero Sum - Release Notes**
 
-## v1_07 RELEASE - Updates and ChangeList
+## v1_08 RELEASE 
+### 2025-07-22
+>  • Cycle Startup Presets to load P2.\
+>  • Good to go!!.
+
+
+## v1_07 PreRELEASE 
 ### 2025-07-18
 >  • Fixed Midi Presets.\
 >  • Fixed Save Functionality on all 3 presets.
@@ -10,12 +16,12 @@
 
 ## v1_06b 
 
-### 2025-07-14 V160b  Release
+### 2025-07-14 V160b  PreRelease
 • Fixed Discontinuity in midi clock
 
 ## v1_06 
 
-2025-07-12 V160  Release
+2025-07-12 V160  PreRelease
 • Fixed Save State Power Cycle State
 • Fixed Presets
 
