@@ -1,76 +1,76 @@
 [
     {
-        "name": "Roundhouse_AUS_v1.13 - Release Notes Below",
+        "name": "Roundhouse_AUS_v1.13 - Release Notes Below - Normal Flash",
         "platform": "Roundhouse",
         "filepath": "./dist/Roundhouse/CT_tremolo_v13.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/Roundhouse/README.md"
     },
     {
-        "name": "Roundhouse_INT_v1.15 - Release notes Below",
+        "name": "Roundhouse_INT_v1.15 - Release notes Below - Normal Flash",
         "platform": "Roundhouse",
         "filepath": "./dist/Roundhouse/CT_tremolo_v15_ES.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/Roundhouse/README.md"
     },
     {
-        "name": "Roundhouse_INT_v1.16 - Release notes Below",
+        "name": "Roundhouse_INT_v1.16 - Release notes Below - Normal Flash",
         "platform": "Roundhouse",
         "filepath": "./dist/Roundhouse/CT_tremolo_v16_ES.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/Roundhouse/README.md"
     },
     {
-        "name": "LoFiDelay_v1.08a  -  see notes below",
+        "name": "LoFiDelay_v1.08a  -  see notes below - Normal Flash",
         "platform": "LoFi-Delay",
         "filepath": "./dist/LoFiDelay/LoFi_Delay_v8a_CT_ED.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/LoFiDelay/README.md"
     },
     {
-        "name": "LoFiDelay_INT_v1.09  -  see notes below",
+        "name": "LoFiDelay_INT_v1.09  -  see notes below - Normal Flash",
         "platform": "LoFi-Delay",
         "filepath": "./dist/LoFiDelay/LoFi_Delay_v9_CT_ED.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/LoFiDelay/README.md"
     },
     {
-        "name": "SpringReverb-II_v1.13 - Release Notes Below",
+        "name": "SpringReverb-II_v1.13 - Release Notes Below - Normal Flash",
         "platform": "Spring Reverb II",
         "filepath": "./dist/SpringReverbII/SpringReverb_v13.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/SpringReverbII/README.md"
     },
     {
-        "name": "SpringReverb-II_v1.15 - Release Notes Below",
+        "name": "SpringReverb-II_v1.15 - Release Notes Below - Normal Flash",
         "platform": "Spring Reverb II",
         "filepath": "./dist/SpringReverbII/SpringReverb_v15.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/SpringReverbII/README.md"
     },
     {
-        "name": "SpringReverb-II_v1.15b_exp - Release Notes Below",
+        "name": "SpringReverb-II_v1.15b_exp - Release Notes Below - Normal Flash",
         "platform": "Spring Reverb II",
         "filepath": "./dist/SpringReverbII/SpringReverb_v15b_exp.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/SpringReverbII/README.md"
     },
      {
-        "name": "SpringReverb-II_v1.15c_exp - Release Notes Below",
+        "name": "SpringReverb-II_v1.15c_exp - Release Notes Below - Normal Flash",
         "platform": "Spring Reverb II",
         "filepath": "./dist/SpringReverbII/SpringReverb_v15c_exp.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/SpringReverbII/README.md"
     },
     {
-        "name": "VibroVerb_v1.9 - Release Notes Below",
+        "name": "VibroVerb_v1.9 - Release Notes Below - Bootloader Flash",
         "platform": "VibroVerb",
         "filepath": "./dist/VibroVerb/VV_2025_v1_9.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/VibroVerb/README.md"
     },
     {
-        "name": "ZeroSum_v1_9 - Release Notes Below",
+        "name": "ZeroSum_v1_9 - Release Notes Below - Normal Flash",
         "platform": "ZeroSum",
         "filepath": "./dist/SumZero/SZ_2025_v1_9a.bin",
         "description": "no desc available yet",
