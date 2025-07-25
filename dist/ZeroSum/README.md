@@ -1,5 +1,5 @@
 # **Zero Sum - Release Notes**
-# FLASH UPDATE METHOD NORMAL
+# FLASH UPDATE METHOD - NORMAL
 
 ## v1_09 RELEASE 
 ### 2025-07-25
