@@ -2,7 +2,12 @@
 # **VibroVerb Release Notes**
 # FLASH UPDATE METHOD BOOTLOADER
 
-## v1.8  Release
+## v1.9  Release
+### 2025-07-22 v109
+> • Update LEDS.\
+
+
+## v1.8  PreRelease
 ### 2025-07-22 v108
 > • Cycle Presets at startup.\
 > • Set Spread to 0 when mono output which helps Squarewave Chop Trem. 
