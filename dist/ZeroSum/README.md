@@ -1,6 +1,11 @@
 # **Zero Sum - Release Notes**
 # FLASH UPDATE METHOD NORMAL
 
+## v1_09 RELEASE 
+### 2025-07-25
+>  • LED Level Update.\
+>  • Good to go!!.
+
 ## v1_08 RELEASE 
 ### 2025-07-22
 >  • Cycle Startup Presets to load P2.\
