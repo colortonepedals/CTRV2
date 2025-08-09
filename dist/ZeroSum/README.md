@@ -2,7 +2,7 @@
 # FLASH UPDATE METHOD - NORMAL
 
 ## v1_10 RELEASE 
-### 2025-07-25
+### 2025-08-09
 >  • BUG Fix for intermittant flash error where Rate control also effected Mix value. \
 >  • BUG Fix for Boost control on Layer 2. \
 >  • Better noise floor. \
