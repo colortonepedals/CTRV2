@@ -2,6 +2,13 @@
 # **VibroVerb Release Notes**
 # FLASH UPDATE METHOD - BOOTLOADER
 
+
+## v1.10  Release 10
+### 2025-08-10 v109
+> • Bug Fix - Square wave in RotoVibe now works.\
+> • Bug Fix - Increased sibilance/air to output.\
+
+
 ## v1.9  Release
 ### 2025-07-22 v109
 > • Update LEDS.\
