@@ -1,10 +1,11 @@
 # **Zero Sum - Release Notes**
 # FLASH UPDATE METHOD - NORMAL
 
-## v1_10 RELEASE 
+## v1_10a RELEASE 
 ### 2025-08-09
 >  • BUG Fix for intermittant flash error where Rate control also effected Mix value. \
 >  • BUG Fix for Boost control on Layer 2. \
+>  • BUG Fix for PreDelay with Expression Controller. \
 >  • Better noise floor. \
 > 
 ## v1_09 RELEASE 
