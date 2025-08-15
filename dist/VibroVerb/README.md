@@ -3,9 +3,10 @@
 # FLASH UPDATE METHOD - BOOTLOADER
 
 
-## v1.10  Release 10
-### 2025-08-10 v109
-> • Bug Fix - Square wave in RotoVibe now works.\
+## v1.10  Release 10a
+### 2025-08-16 v110a
+> • Bug Fix - Fix soft crackling in VibroVerb for PCB's with 8MB Ram
+> • Bug Fix - Square wave in RotoVibe now works.\
 > • Bug Fix - Increased sibilance/air to output.\
 
 
