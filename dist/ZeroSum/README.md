@@ -1,7 +1,7 @@
 # **Zero Sum - Release Notes**
 # FLASH UPDATE METHOD - NORMAL
 
-## v1_11 TEST 
+## v1_11a TEST 
 ### 2025-08-31
 1.  • NEW Preset cycle/select method by pressing both footswitches @ 200ms. \
 ....* EACH FOOTSWITCH NOW HAS THREE MODES \
