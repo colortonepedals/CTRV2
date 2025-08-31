@@ -9,10 +9,10 @@
 > > > Long Hold - (R)Change Layer (L)Save (greater than 800ms) \
 > > > BOTH - Less than 500ms Cycle Preset \
  \
->  • Make Repeats Less Dark. \
->  • Added more variance to Tape age. \
->
-> 
+  • Make Repeats Less Dark. \
+  • Added more variance to Tape age. \
+
+ 
 ## v1_10a RELEASE 
 ### 2025-08-09
 >  • BUG Fix for intermittant flash error where Rate control also effected Mix value. \
