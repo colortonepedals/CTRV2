@@ -4,13 +4,13 @@
 ## v1_11 TEST 
 ### 2025-08-31
 1.  • NEW Preset cycle/select method by pressing both footswitches @ 200ms. \
-....* Each Footswitch now has 3 modes 
-....* Quick - individual tap or Bypass (less than 200ms) \
-....* Long Hold - (R)Change Layer (L)Save (greater than 800ms) \
+....* EACH FOOTSWITCH NOW HAS THREE MODES 
+....* Quick - (L)Individual Tap  (R) Bypass (less than 200ms) \
+....* Long Hold - (L)Save (R)Change Layer (greater than 800ms) \
 ....* BOTH - Less than 500ms Cycle Preset \
  
 2. Make Repeats Less Dark. \
-3. Added more variance to Tape age. \
+3. Added more variance to TapeAge. \
 
  
 ## v1_10a RELEASE 
