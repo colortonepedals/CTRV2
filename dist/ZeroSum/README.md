@@ -4,7 +4,7 @@
 ## v1_11 TEST 
 ### 2025-08-31
 1.  • NEW Preset cycle/select method by pressing both footswitches @ 200ms. \
-....* EACH FOOTSWITCH NOW HAS THREE MODES 
+....* EACH FOOTSWITCH NOW HAS THREE MODES \
 ....* Quick - (L)Individual Tap  (R) Bypass (less than 200ms) \
 ....* Long Hold - (L)Save (R)Change Layer (greater than 800ms) \
 ....* BOTH - Less than 500ms Cycle Preset \
