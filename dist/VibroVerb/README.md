@@ -2,6 +2,11 @@
 # **VibroVerb Release Notes**
 # FLASH UPDATE METHOD - BOOTLOADER
 
+## v1.10  Release 10b
+### 2025-10-19 v110b
+> • Increase Tonal Range of Harmonic Trem (More Bright)
+> • Remove Second Layer Drive Blend Control for Sat. 
+
 
 ## v1.10  Release 10a
 ### 2025-08-16 v110a
