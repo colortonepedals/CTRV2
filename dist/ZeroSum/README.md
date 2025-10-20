@@ -1,6 +1,18 @@
 # **Zero Sum - Release Notes**
 # FLASH UPDATE METHOD - NORMAL
 
+## v1_11c TEST 
+### 2025-10-20
+1.  • NEW Preset cycle/select method by pressing both footswitches @ 200ms. \
+....* EACH FOOTSWITCH NOW HAS THREE MODES \
+....* Quick - (L)Individual Tap  (R) Bypass (less than 200ms) \
+....* Long Hold - (L)Save (R)Change Layer (greater than 800ms) \
+....* BOTH - Less than 500ms Cycle Preset \
+ 
+2. Make Repeats Less Dark - Opened Bandpass in FB loop. \
+3. Added more variance to TapeAge. \
+
+
 ## v1_11a TEST 
 ### 2025-08-31
 1.  • NEW Preset cycle/select method by pressing both footswitches @ 200ms. \
