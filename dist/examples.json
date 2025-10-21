@@ -65,7 +65,7 @@
     {
         "name": "VibroVerb_v1.10b - Release Notes Below - Bootloader Flash",
         "platform": "VibroVerb",
-        "filepath": "./dist/VibroVerb/VV_2025_v1_10b.bin",
+        "filepath": "./dist/VibroVerb/VV_2025_v1_10c.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/VibroVerb/README.md"
     },
