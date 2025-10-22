@@ -7,6 +7,11 @@
 > • Increase Tonal Range of Harmonic Trem (More Bright)
 > • Remove Second Layer Drive Blend Control for Sat.
 > • Add new SaveRecall mechanism.
+> • NEW Preset cycle/select method by pressing both footswitches @ 200ms.
+....* EACH FOOTSWITCH NOW HAS THREE MODES
+....* Quick - (L)Individual Tap (R) Bypass (less than 200ms)
+....* Long Hold - (L)Save (R)Change Layer (greater than 800ms)
+....* BOTH - Less than 500ms Cycle Preset \
 
 
 ## v1.10  Release 10b - c
