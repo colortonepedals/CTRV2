@@ -2,6 +2,13 @@
 # **VibroVerb Release Notes**
 # FLASH UPDATE METHOD - BOOTLOADER
 
+## v1.10  Release 11d 
+### 2025-10-22 v111d
+> • Increase Tonal Range of Harmonic Trem (More Bright)
+> • Remove Second Layer Drive Blend Control for Sat.
+> • Add new SaveRecall mechanism.
+
+
 ## v1.10  Release 10b - c
 ### 2025-10-19 v110b
 > • Increase Tonal Range of Harmonic Trem (More Bright)
