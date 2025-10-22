@@ -1,6 +1,10 @@
 # **Zero Sum - Release Notes**
 # FLASH UPDATE METHOD - NORMAL
 
+## v1_11d TEST 
+### 2025-10-22
+1.  • Improvements on Preset Switching mechansim
+
 ## v1_11c TEST 
 ### 2025-10-20
 1.  • NEW Preset cycle/select method by pressing both footswitches @ 200ms. \
