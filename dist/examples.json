@@ -63,7 +63,7 @@
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/SpringReverbII/README.md"
     },
     {
-        "name": "VibroVerb_v1.11d - Release Notes Below - Bootloader Flash",
+        "name": "VibroVerb_v1.11d RELEASE- Release Notes Below - Bootloader Flash",
         "platform": "VibroVerb",
         "filepath": "./dist/VibroVerb/VV_2025_v1_11d.bin",
         "description": "no desc available yet",
@@ -77,7 +77,7 @@
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/VibroVerb/README.md"
     },
     {
-        "name": "VibroVerb_v1.10a - Release Notes Below - Bootloader Flash",
+        "name": "VibroVerb_v1.10a RELEASE- Release Notes Below - Bootloader Flash",
         "platform": "VibroVerb",
         "filepath": "./dist/VibroVerb/VV_2025_v1_10a.bin",
         "description": "no desc available yet",
@@ -93,12 +93,12 @@
     {
         "name": "ZeroSum_v1_11d_RELEASE - Release Notes Below - Normal Flash",
         "platform": "ZeroSum",
-        "filepath": "./dist/SumZero/SZ_2025_v1_11d.bin",
+        "filepath": "./dist/SumZero/SZ_2025_v1_11d_.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/ZeroSum/README.md"
     },
     {
-        "name": "ZeroSum_v1_10a - Release Notes Below - Normal Flash",
+        "name": "ZeroSum_v1_10a_RELEASE - Release Notes Below - Normal Flash",
         "platform": "ZeroSum",
         "filepath": "./dist/SumZero/SZ_2025_v1_10a.bin",
         "description": "no desc available yet",
