@@ -5,7 +5,7 @@
 ## v1.11  Release 11d 
 ### 2025-10-22 v111d
 > • Added Tap Tempo Multiplier
-> • Increase Tonal Range of Harmonic Trem (More Bright)
+> • Increase Tonal Range of Harmonic Trem (More Bright)<br>
 > • Remove Second Layer Drive Blend Control for Sat.
 > • Move Secondary Controls to more obvious places - Refer updated Layer 2 Controls on Website
 > • Add new SaveRecall mechanism.
