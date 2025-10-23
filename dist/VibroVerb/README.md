@@ -16,7 +16,7 @@
 ....* BOTH - Less than 500ms Cycle Preset <br>
 
 
-## v1.10  Pre-Release 10b - c
+## v1.10  Pre-Release 10b - c.
 ### 2025-10-19 v110b
 > • Increase Tonal Range of Harmonic Trem (More Bright) <br>
 > • Remove Second Layer Drive Blend Control for Sat. <br>
