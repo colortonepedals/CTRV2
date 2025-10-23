@@ -4,29 +4,29 @@
 
 ## v1.11  Release 11d 
 ### 2025-10-22 v111d
-> • Added Tap Tempo Multiplier
-> • Increase Tonal Range of Harmonic Trem (More Bright)<br>
-> • Remove Second Layer Drive Blend Control for Sat.
-> • Move Secondary Controls to more obvious places - Refer updated Layer 2 Controls on Website
-> • Add new SaveRecall mechanism.
-> • NEW Preset cycle/select method by pressing both footswitches @ 200ms.
-....* EACH FOOTSWITCH NOW HAS THREE MODES
-....* Quick - (L)Individual Tap (R) Bypass (less than 200ms)
-....* Long Hold - (L)Save (R)Change Layer (greater than 800ms)
-....* BOTH - Less than 500ms Cycle Preset \
+> • Added Tap Tempo Multiplier <br>
+> • Increase Tonal Range of Harmonic Trem (More Bright) <br>
+> • Remove Second Layer Drive Blend Control for Sat. <br>
+> • Move Secondary Controls to more obvious places - Refer updated Layer 2 Controls on Website <br>
+> • Add new SaveRecall mechanism. <br>
+> • NEW Preset cycle/select method by pressing both footswitches @ 200ms. <br>
+....* EACH FOOTSWITCH NOW HAS THREE MODES <br>
+....* Quick - (L)Individual Tap (R) Bypass (less than 200ms) <br>
+....* Long Hold - (L)Save (R)Change Layer (greater than 800ms) <br>
+....* BOTH - Less than 500ms Cycle Preset <br>
 
 
 ## v1.10  Pre-Release 10b - c
 ### 2025-10-19 v110b
-> • Increase Tonal Range of Harmonic Trem (More Bright)
-> • Remove Second Layer Drive Blend Control for Sat. 
+> • Increase Tonal Range of Harmonic Trem (More Bright) <br>
+> • Remove Second Layer Drive Blend Control for Sat. <br>
 
 
 ## v1.10  Release 10a
-### 2025-08-16 v110a
-> • Bug Fix - Fix soft crackling in VibroVerb for PCB's with 8MB Ram
-> • Bug Fix - Square wave in RotoVibe now works.\
-> • Bug Fix - Increased sibilance/air to output.\
+### 2025-08-16 v110a <br>
+> • Bug Fix - Fix soft crackling in VibroVerb for PCB's with 8MB Ram <br>
+> • Bug Fix - Square wave in RotoVibe now works. <br>
+> • Bug Fix - Increased sibilance/air to output. <br>
 
 
 ## v1.9  Release
