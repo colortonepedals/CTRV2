@@ -2,10 +2,12 @@
 # **VibroVerb Release Notes**
 # FLASH UPDATE METHOD - BOOTLOADER
 
-## v1.10  Release 11d 
+## v1.11  Release 11d 
 ### 2025-10-22 v111d
+> • Added Tap Tempo Multiplier
 > • Increase Tonal Range of Harmonic Trem (More Bright)
 > • Remove Second Layer Drive Blend Control for Sat.
+> • Move Secondary Controls to more obvious places - Refer updated Layer 2 Controls on Website
 > • Add new SaveRecall mechanism.
 > • NEW Preset cycle/select method by pressing both footswitches @ 200ms.
 ....* EACH FOOTSWITCH NOW HAS THREE MODES
@@ -14,7 +16,7 @@
 ....* BOTH - Less than 500ms Cycle Preset \
 
 
-## v1.10  Release 10b - c
+## v1.10  Pre-Release 10b - c
 ### 2025-10-19 v110b
 > • Increase Tonal Range of Harmonic Trem (More Bright)
 > • Remove Second Layer Drive Blend Control for Sat. 
