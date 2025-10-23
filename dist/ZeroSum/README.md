@@ -1,11 +1,18 @@
 # **Zero Sum - Release Notes**
 # FLASH UPDATE METHOD - NORMAL
 
-## v1_11d TEST 
-### 2025-10-22
-1.  • Improvements on Preset Switching mechansim
+## v1_11d RELESE 
+### 2025-10-22 V111d
+> • Make Repeats less 'Dark' and thus more sustained <br>
+> • Added more organic variance to Tape Age <br>
+> • Improvements on Preset Switching mechansim <br>
+> • NEW Preset cycle/select method by pressing both footswitches @ 200ms. \
+....* EACH FOOTSWITCH NOW HAS THREE MODES \
+....* Quick Tap - (L FootSwitch) Tap Tempo    (R FootSwitch) Bypass (less than 300ms) \
+....* Long Hold - (L FootSwitch) Save         (R FootSwitch) Change Layer (greater than 800ms) \
+....* Hold BOTH - Less than 500ms Cycle Preset between P1 P2 and P3 \
 
-## v1_11c TEST 
+## v1_11c Pre-Release TEST
 ### 2025-10-20
 1.  • NEW Preset cycle/select method by pressing both footswitches @ 200ms. \
 ....* EACH FOOTSWITCH NOW HAS THREE MODES \
@@ -16,17 +23,6 @@
 2. Make Repeats Less Dark - Opened Bandpass in FB loop. \
 3. Added more variance to TapeAge. \
 
-
-## v1_11a TEST 
-### 2025-08-31
-1.  • NEW Preset cycle/select method by pressing both footswitches @ 200ms. \
-....* EACH FOOTSWITCH NOW HAS THREE MODES \
-....* Quick - (L)Individual Tap  (R) Bypass (less than 200ms) \
-....* Long Hold - (L)Save (R)Change Layer (greater than 800ms) \
-....* BOTH - Less than 500ms Cycle Preset \
- 
-2. Make Repeats Less Dark. \
-3. Added more variance to TapeAge. \
 
  
 ## v1_10a RELEASE 
