@@ -6,7 +6,7 @@
 ### 2025-10-22 v111d
 > • Added Tap Tempo Multiplier <br>
 > • Increase Tonal Range of Harmonic Trem (More Bright) <br>
-> • Remove Second Layer Drive Blend Control for Sat. <br>
+> • Remove Second Layer Drive Blend Control for Sat - now combined into one single control. <br>
 > • Move Secondary Controls to more obvious places - Refer updated Layer 2 Controls on Website <br>
 > • Add new SaveRecall mechanism. <br>
 > • NEW Preset cycle/select method by pressing both footswitches @ 200ms. <br>
