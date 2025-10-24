@@ -98,13 +98,6 @@
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/ZeroSum/README.md"
     },
     {
-        "name": "ZeroSum_v1_11d_RELEASE - Release Notes Below - Normal Flash",
-        "platform": "ZeroSum",
-        "filepath": "./dist/SumZero/SZ_2025_v1_11d_.bin",
-        "description": "no desc available yet",
-        "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/ZeroSum/README.md"
-    },
-    {
         "name": "ZeroSum_v1_10a_RELEASE - Release Notes Below - Normal Flash",
         "platform": "ZeroSum",
         "filepath": "./dist/SumZero/SZ_2025_v1_10a.bin",
