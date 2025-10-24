@@ -1,8 +1,8 @@
 # **Zero Sum - Release Notes**
 # FLASH UPDATE METHOD - NORMAL
 
-## v1_11d RELESE 
-### 2025-10-22 V111d
+## v1_11e RELEASE 
+### 2025-10-24 V111e
 > • Make Repeats less 'Dark' and thus more sustained <br>
 > • Added more organic variance to Tape Age <br>
 > • Improvements on Preset Switching mechansim <br>
