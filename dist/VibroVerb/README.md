@@ -7,7 +7,10 @@
 > • REQUIRES UPGRADE TO BOOTLOADER 6.3 <br>
 > • Fixed background 6k Hum/noise found in some pedal/amp combo setups <br>
 > • Fixed reported accidental save of preset when switching between presets <br>
-
+> • Go to flash.daisy.audio and select the bootloader tab at the top of the webpage <br>
+....* THEN Press the BOOT button and the RESET button at the same time <br>
+....* THEN on the webpage select the the v6.3 option in the 'Bootloader Version' drop down menu  <br>
+....* THEN press the FLASH button  <br>
 
 ## v1.11  Release 11d 
 ### 2025-10-22 v111d
