@@ -2,6 +2,12 @@
 # **VibroVerb Release Notes**
 # FLASH UPDATE METHOD - BOOTLOADER
 
+## v1.11  Release 11f 
+### 2025-12-24 v111f
+> • Fixed background 6k Hum/noise found in some pedal/amp combo setups <br>
+> • Increased Clock Rate <br>
+
+
 ## v1.11  Release 11d 
 ### 2025-10-22 v111d
 > • Added Tap Tempo Multiplier <br>
