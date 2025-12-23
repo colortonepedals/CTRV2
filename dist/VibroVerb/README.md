@@ -11,6 +11,7 @@
 ....* THEN Press the BOOT button and the RESET button at the same time <br>
 ....* THEN on the webpage select the the v6.3 option in the 'Bootloader Version' drop down menu  <br>
 ....* THEN press the FLASH button  <br>
+....* THEN follow the normal VibroVerb Firmware update mode <br>
 
 ## v1.11  Release 11d 
 ### 2025-10-22 v111d
