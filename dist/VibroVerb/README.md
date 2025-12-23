@@ -4,8 +4,9 @@
 
 ## v1.11  Release 11f 
 ### 2025-12-24 v111f
+> • REQUIRES UPGRADE TO BOOTLOADER 6.3 <br>
 > • Fixed background 6k Hum/noise found in some pedal/amp combo setups <br>
-> • Increased Clock Rate <br>
+> • Fixed reported accidental save of preset when switching between presets <br>
 
 
 ## v1.11  Release 11d 
