@@ -2,6 +2,11 @@
 # **VibroVerb Release Notes**
 # FLASH UPDATE METHOD - BOOTLOADER
 
+## v1.11  Release 11h 
+### 2025-12-26 v111h
+> • Fixed some units not saving presets after power Cycle <br>
+> • NOTE When Saving there is now a soft beep that emits from the output indicating save <br>
+
 ## v1.11  Release 11f 
 ### 2025-12-26 v111f
 > • Fixed reported accidental save of preset when switching between presets <br>
