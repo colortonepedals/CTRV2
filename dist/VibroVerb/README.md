@@ -3,7 +3,7 @@
 # FLASH UPDATE METHOD - BOOTLOADER
 
 ## v1.11  Release 11h 
-### 2025-12-26 v111h
+### 2026-01-04 v111h
 > • Fixed some units not saving presets after power Cycle <br>
 > • NOTE When Saving there is now a soft beep that emits from the output indicating save <br>
 
