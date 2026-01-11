@@ -2,11 +2,18 @@
 # FLASH UPDATE METHOD - NORMAL
 
 ## v1_11h RELEASE 
-### 2026-01-08 V111h
-> • NOTE - MATER MAX DELAY TIME NOW 625ms was 1000ms <br>
+### 2026-01-08 V111h - TWO RELEASES - 
+> • - 625ms Version <br>
+....* NOTE - MAX DELAY TIME NOW 625ms was 1000ms \
+....* NOTE - Added new C Mode to Single Head (Stereo Mode) 2:1 delay \
+....* Fixed - Some units not saving and recalling presets correctly after a power cycle \
+....* Fixed - reported accidental save of preset when switching between presets using the new dual footswitch \
+....* Fixed - Removed background 6k Hum/noise found in some pedal/amp combo setups \
+\
+> • - 1000ms Version <br>
 > • Fixed - Some units not saving and recalling presets correctly after a power cycle <br>
-> • Fixed  - reported accidental save of preset when switching between presets using the new dual footswitch<br>
-> • Fixed background 6k Hum/noise found in some pedal/amp combo setups <br>
+> • Fixed - Fixed reported accidental save of preset when switching between presets using the new dual footswitch<br>
+> • Fixed - Reduced background 6k Hum/noise found in some pedal/amp combo setups <br>
 
 ## v1_11e RELEASE 
 ### 2025-10-24 V111e
