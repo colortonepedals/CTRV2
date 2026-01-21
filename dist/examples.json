@@ -62,6 +62,13 @@
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/SpringReverbII/README.md"
     },
+    {
+        "name": "VibroVerb_v1.11j RELEASE- Release Notes Below - Bootloader Flash",
+        "platform": "VibroVerb",
+        "filepath": "./dist/VibroVerb/VV_2025_v1_11j_a.bin",
+        "description": "no desc available yet",
+        "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/VibroVerb/README.md"
+    },
      {
         "name": "VibroVerb_v1.11h RELEASE- Release Notes Below - Bootloader Flash",
         "platform": "VibroVerb",
