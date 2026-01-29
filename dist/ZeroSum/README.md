@@ -1,6 +1,13 @@
 # **Zero Sum - Release Notes**
 # FLASH UPDATE METHOD - NORMAL
 
+## v1_12a RELEASE 
+### 2026-01-29 V112a - 1000ms
+> • NOTE - This release changes the flash format to the Bootloader 6.3 <br>
+> • Clean up of MIDI code and filtering of MIDI clock to handle 'noisy' MIDI Clock sources <br>
+> • Clean up of Save / Recall Presets <br>
+
+# FLASH UPDATE METHOD - NORMAL
 ## v1_11h RELEASE 
 ### 2026-01-08 V111h - TWO RELEASES - 
 > • - 625ms Version <br>
