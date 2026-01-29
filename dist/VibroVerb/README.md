@@ -2,6 +2,16 @@
 # **VibroVerb Release Notes**
 # FLASH UPDATE METHOD - BOOTLOADER
 
+## v1.12  Release 12a 
+### 2026-01-29 v112a
+> • NOTE Requires an Pre Firmware update to the Bootloader 6.3 <br>
+> • Cleaned up MIDI Code <br>
+> • Updated Saturation Control with more input sensitivity and made it more usable across the range of the knob <br>
+> • Added a new function on L2 Sat - this is now an on off switch for an output noise gate. Left == Off | Right = On  <br>
+> • Opened out the tone a little more on the Harmonic Tremolo <br>
+> • Cleaned up Code for saving / switching Layers and Presets <br>
+
+
 ## v1.11  Release 11h 
 ### 2026-01-04 v111h
 > • Fixed some units not saving presets after power Cycle <br>
