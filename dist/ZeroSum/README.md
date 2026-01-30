@@ -3,7 +3,7 @@
 
 ## v1_12a RELEASE 
 ### 2026-01-29 V112a - 1000ms
-> • NOTE Requires an Pre Firmware update to the Bootloader 6.3. V1.12 and above firmware versions now use the same update method as the VibroVerb <br>
+> • NOTE Requires an Pre Firmware update to the Bootloader 6.3. V1.12 and above firmware versions now use the same update method as the VibroVerb. Read the 'Update to Bootloader v6.3' help button on the updater website for instructions. <br>
 > • Clean up of MIDI code and filtering of MIDI clock to handle 'noisy' MIDI Clock sources <br>
 > • Clean up of Save / Recall Presets <br>
 
