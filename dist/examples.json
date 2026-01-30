@@ -14,7 +14,7 @@
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/Bootloader/README.md"
     },
     {
-        "name": "Bootloader V6.3 External",
+        "name": "Bootloader V6.3  External",
         "platform": "Bootloader",
         "filepath": "./dist/Bootloader/dsy_bootloader_v6_3-extdfu-2000ms.bin",
         "description": "no desc available yet",
