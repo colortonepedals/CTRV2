@@ -114,7 +114,7 @@
     {
         "name": "ZeroSum_Bootloader V6.3 Flash",
         "platform": "ZeroSum",
-        "filepath": "./dist/SumZero/SZ_2025_v1_12a_1000_Boot.bin",
+        "filepath": "./dist/Blink/dsy_bootloader_v6_3-intdfu-2000ms.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/ZeroSum/README.md"
     },
