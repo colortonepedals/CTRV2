@@ -4,7 +4,7 @@
 
 ## v1.12  Release 12a 
 ### 2026-01-29 v112a
-> • NOTE Requires an Pre Firmware update to the Bootloader 6.3 <br>
+> • NOTE Requires an Pre Firmware update to the Bootloader 6.3. V1.12 and above firmware versions now use the same update method for both the VibroVerb and ZeroSum. Read the 'Update to Bootloader v6.3' help button on the updater website for instructions. <br> 
 > • Cleaned up MIDI Code <br>
 > • Updated Saturation Control with more input sensitivity and made it more usable across the range of the knob <br>
 > • Added a new function on L2 Sat - this is now an on off switch for an output noise gate. Left == Off | Right = On  <br>
