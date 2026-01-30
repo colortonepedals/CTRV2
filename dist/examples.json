@@ -1,5 +1,26 @@
 [
     {
+        "name": "Bootloader V5.4 Internal",
+        "platform": "Bootloader",
+        "filepath": "./dist/Bootloader/dsy_bootloader_v5_4.bin",
+        "description": "no desc available yet",
+        "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/Bootloader/README.md"
+    },
+    {
+        "name": "Bootloader V6.3 Internal",
+        "platform": "Bootloader",
+        "filepath": "./dist/Bootloader/dsy_bootloader_v6_3-intdfu-2000ms.bin",
+        "description": "no desc available yet",
+        "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/Bootloader/README.md"
+    },
+    {
+        "name": "Bootloader V6.3 External",
+        "platform": "Bootloader",
+        "filepath": "./dist/Bootloader/dsy_bootloader_v6_3-extdfu-2000ms.bin",
+        "description": "no desc available yet",
+        "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/Bootloader/README.md"
+    },
+    {
         "name": "Roundhouse_AUS_v1.13 - Release Notes Below - Normal Flash",
         "platform": "Roundhouse",
         "filepath": "./dist/Roundhouse/CT_tremolo_v13.bin",
@@ -110,27 +131,6 @@
         "filepath": "./dist/VibroVerb/VV_2025_v1_9.bin",
         "description": "no desc available yet",
         "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/VibroVerb/README.md"
-    },
-    {
-        "name": "Bootloader V5.4 Internal",
-        "platform": "Bootloader",
-        "filepath": "./dist/Bootloader/dsy_bootloader_v5_4.bin",
-        "description": "no desc available yet",
-        "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/Bootloader/README.md"
-    },
-    {
-        "name": "Bootloader V6.3 Internal",
-        "platform": "Bootloader",
-        "filepath": "./dist/Bootloader/dsy_bootloader_v6_3-intdfu-2000ms.bin",
-        "description": "no desc available yet",
-        "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/Bootloader/README.md"
-    },
-    {
-        "name": "Bootloader V6.3 External",
-        "platform": "Bootloader",
-        "filepath": "./dist/Bootloader/dsy_bootloader_v6_3-extdfu-2000ms.bin",
-        "description": "no desc available yet",
-        "url": "https://raw.githubusercontent.com/colortonepedals/CTRV2/main/dist/Bootloader/README.md"
     },
     {
         "name": "ZeroSum_v1_12a_RELEASE - 1000ms- RELEASE - Bootloader V6.3 Flash",
