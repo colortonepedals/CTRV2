@@ -1,6 +1,15 @@
 # **Zero Sum - Release Notes**
 # FLASH UPDATE METHOD - NORMAL
 
+## v2_01 RELEASE 
+### 2026-10-18 V201 - 1000ms
+> • All presets are now editable and savable <br>
+> • 10 Presets are avaliable via MIDI <br>
+> • MIDI Clock timing updated <br>
+> • New Gearbox for Expression Controller mode - Offers 3 different Rate multipliers to choose from, DeepDub, Offbeat and Hooligan <br>
+> • Improved Latency <br>
+> • NOTE Requires an Pre Firmware update to the Bootloader 6.3 if you havent already updated to V12. V1.12 and above firmware versions now use the same update method as the VibroVerb. Read the 'Update to Bootloader v6.3' help button on the updater website for instructions. <br>
+
 ## v1_12d RELEASE 
 ### 2026-03-05 V112d - 1000ms
 > • Update for brighter LED's <br>
