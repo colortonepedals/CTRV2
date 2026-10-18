@@ -2,6 +2,18 @@
 # **VibroVerb Release Notes**
 # FLASH UPDATE METHOD - BOOTLOADER
 
+## v2.01  Release v2.01
+### 2026-10-18 v201
+> • NOTE Requires an Pre Firmware update to the Bootloader 6.3. V1.12 and above firmware versions now use the same update method for both the VibroVerb and ZeroSum. Read the 'Update to Bootloader v6.3' help button on the updater website for instructions. <br>
+> • ALL Presets are now editable <br>
+> • 10 Presets are now avaliable via MIDI <br>
+> • Added more spacial stereo width options <br>
+> • Improved MIDI Clock <br>
+> • Improved Switching Logic <br>
+> • Improved Latency <br>
+> • Improved noise floor <br>
+
+
 ## v1.12  Release 12a 
 ### 2026-01-29 v112a
 > • NOTE Requires an Pre Firmware update to the Bootloader 6.3. V1.12 and above firmware versions now use the same update method for both the VibroVerb and ZeroSum. Read the 'Update to Bootloader v6.3' help button on the updater website for instructions. <br> 
